@@ -1,0 +1,29 @@
+h1{
+    color:orangered
+    
+}
+
+*{
+    background-color:yellow;
+}
+
+p,h1{
+    text-align:center;
+}
+
+.animals{
+    display:flex;
+    flex-wrap:wrap;
+    justify-content:space-evenly;
+}
+
+.panda{
+    display:flex;
+    flex-wrap:wrap;
+    justify-content:space-evenly;
+}
+
+p,h2{
+    text-align:center;
+}
+
